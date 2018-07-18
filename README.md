@@ -1,3 +1,3 @@
 # exponential
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boileaum/exponential/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boileaum/exponential/master?filepath=exponential.ipynb)
